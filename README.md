@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1>
+  Hi there 👋 I'm Jean
+</h1>
 
-<!--
-**JeanCremonezzi/JeanCremonezzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  I'm a Brazilian tech enthusiast 👨🏻‍💻🚀 with a passion for continuous learning 🧠 and committed to innovative solutions and collaborative development 🫱🏻‍🫲🏽.
+</p>
 
-Here are some ideas to get you started:
+<sub>Also a coffee lover &nbsp;&nbsp; 🤎 ☕ 🧋</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  📫 How to reach me:
+
+  <p>
+    <a href='mailto:jeancremonezzidev@gmail.com' target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/jeancremonezzi/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+</p>
+
+## ⚡ Main tech and languages
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+
+## 🌱 I’m currently learning 
+<ul>
+  <li>🔒&nbsp;Cybersecurity</li>
+  <li>🐧&nbsp;Linux</li>
+  <li>🖧&nbsp;&nbsp;Networks</li>
+</ul>
+
+## ⭐ Miscellaneous
+<a href="https://gist.github.com/JeanCremonezzi/0c26b859487bc6d79550bb88e8e8be14" target="_blank">
+  🔨 <b>My VSCode settings</b>
+</a>
