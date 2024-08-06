@@ -35,6 +35,7 @@
   <li>🖥️&nbsp;C++</li>
   <li>🌐&nbsp;IoT</li>
   <li>💾&nbsp;Embedded Systems</li>
+  <li>🏠&nbsp;Smart Home</li>
 </ul>
 
 ## ⭐ Miscellaneous
