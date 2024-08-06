@@ -6,7 +6,7 @@
   I'm a Brazilian tech enthusiast 👨🏻‍💻🚀 with a passion for continuous learning 🧠 and committed to innovative solutions and collaborative development 🫱🏻‍🫲🏽.
 </p>
 
-<sub>Also a coffee lover &nbsp;&nbsp; 🤎 ☕ 🧋</sub>
+<sub>I'm a tech developer with a passion for technology and also a coffee enthusiast &nbsp;&nbsp; 🤎 ☕ 🧋</sub>
 
 <p>
   📫 How to reach me:
