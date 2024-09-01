@@ -8,19 +8,6 @@
 
 <sub>I'm a tech developer with a passion for technology and also a coffee enthusiast &nbsp;&nbsp; 🤎 ☕ 🧋</sub>
 
-<p>
-  📫 How to reach me:
-
-  <p>
-    <a href='mailto:jeancremonezzidev@gmail.com' target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>&nbsp;
-    <a href="https://www.linkedin.com/in/jeancremonezzi/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </p>
-</p>
-
 <!--
 ## ⚡ Main skills
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
