@@ -24,8 +24,3 @@
   <li>💾&nbsp;Embedded Systems</li>
   <li>🏠&nbsp;Smart Home</li>
 </ul>
-
-## ⭐ Miscellaneous
-<a href="https://gist.github.com/JeanCremonezzi/0c26b859487bc6d79550bb88e8e8be14" target="_blank">
-  🔨 <b>My VSCode settings</b>
-</a>
